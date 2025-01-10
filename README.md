@@ -1,0 +1,2 @@
+# almacen
+Curso de grails
