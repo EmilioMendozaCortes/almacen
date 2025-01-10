@@ -1,0 +1,6 @@
+#Sat, 21 Dec 2024 18:51:47 -0600
+
+info.app.version=0.1
+info.app.name=elalmacen
+grails.env=development
+info.app.grailsVersion=3.3.5
